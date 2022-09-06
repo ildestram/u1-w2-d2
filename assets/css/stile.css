@@ -11,32 +11,7 @@ body {
 * {box-sizing: border-box;}
 hr {display: none;} /* rimuove l'elemento */
 
-/* PULSANTI
-.button-social {
-    position:fixed;
-    bottom:20vh;
-    right:-2px;
-}
 
-.button-social a {
-    color:blue;
-    display:block;
-}
-
-.top {
-    position:fixed;
-    bottom:10px;
-    right:-2px;
-}
-
-.top a, .button-social a {
-    color:rgb(9, 85, 110);
-    font-size:4rem;
-}
-
-.top a {
-    color:#da2294;
-} */
 
 
 
