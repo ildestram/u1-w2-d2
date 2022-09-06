@@ -60,6 +60,8 @@ header div img {
 }
 header nav ul {
     margin: 0;
+    padding-right:70px;
+    padding-left:70px;
 }
 header nav li {
     list-style: none;
